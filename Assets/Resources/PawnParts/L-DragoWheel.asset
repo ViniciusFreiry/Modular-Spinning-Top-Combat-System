@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194e39555dbfda242a9e7f383b93e621, type: 3}
+  m_Name: L-DragoWheel
+  m_EditorClassIdentifier: 
+  partName: Lightning
+  sprite: {fileID: -870063794, guid: 0601a6369ef27e74ba0232bfa0372b3b, type: 3}
+  attack: 3
+  defense: 2
+  stamina: 1
+  balance: 5
+  specialAbility: 0
+  partType: 1
+  spinOrientation: 1
